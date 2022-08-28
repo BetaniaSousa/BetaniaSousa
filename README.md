@@ -16,12 +16,12 @@ Olá, me chamo Betânia.
 
 ## Gosto de saber sobre:
 - Temas sobre Desenvolvimento Pessoal
-- Técnicas de Vendas e Negociação
+- Técnicas de Vendas e Negociação, Clientes
 - Tecnologia
 
 ## Meus Contatos
 
 - Instagran @betaniasousamk
-- GitHub @BEtaniaSousa
+- GitHub @BetaniaSousa
 - Email betaniaconsultoria1@gmail.com
 
